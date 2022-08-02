@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tulchha Ram
 - 👀 I’m interested in ...Full Stack Developer
 - 🌱 I’m currently learning ...FSD
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...IT company
 - 📫 How to reach me ...9166245209
 
 <!---
